@@ -4,3 +4,4 @@ numpy
 requests
 joblib
 google-generativeai
+scikit-learn
